@@ -40,7 +40,7 @@ const animationStates = [
         
     },
     {
-        name: 'crouch',
+        name: 'sit',
         frames: 5,
     },
     {
